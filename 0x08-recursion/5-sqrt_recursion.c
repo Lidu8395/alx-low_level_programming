@@ -5,7 +5,8 @@
  * @h: input number
  * @sqrt: Number to find sqrt of.
  *
- * Return: square root or -1. 
+ * Return: square root or -1.
+ *
  */
 int _check_sqrt(int h, int sqrt)
 {
