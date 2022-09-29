@@ -3,7 +3,8 @@
 /**
  * _check_sqrt - checks if sqrt of number exist.
  * @h: input number
- * @sqrt: Number to find sqrt of. 
+ * @sqrt: Number to find sqrt of.
+ *
  * Return: square root or -1. 
  */
 int _check_sqrt(int h, int sqrt)
