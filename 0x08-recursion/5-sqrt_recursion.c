@@ -3,8 +3,8 @@
 /**
  * _check_sqrt - checks if sqrt of number exist.
  * @h: input number
- * @sqrt: Number to find sqrt of 
- * Return: square root or -1 
+ * @sqrt: Number to find sqrt of. 
+ * Return: square root or -1. 
  */
 int _check_sqrt(int h, int sqrt)
 {
@@ -17,7 +17,7 @@ int _check_sqrt(int h, int sqrt)
 		if ((sqrt * sqrt) > h)
 			return (-1);
 		else
-			return (_check_sqrt(h, sqrt+1));
+			return (_check_sqrt(h, sqrt + 1));
 	}
 }
 
