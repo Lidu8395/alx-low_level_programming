@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * check_prime: returns 0 or 1.
+ * check_prime - returns 0 or 1.
  * @i: input number.
  * @p: possible factor of number.
  * Return: 0 if not, 1 if prime.
